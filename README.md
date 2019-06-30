@@ -25,5 +25,5 @@ Minor Impediments:
 
 Acknowledgements:
 -----------------
-Maple_Leaf_Cutter.stl - comes from https://www.thingiverse.com/thing:121331/files
-Lyrics to O Canada: https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13
+- Maple_Leaf_Cutter.stl - comes from https://www.thingiverse.com/thing:121331/files
+- Lyrics to O Canada: https://www.canada.ca/en/canadian-heritage/services/anthems-canada.html#a13
