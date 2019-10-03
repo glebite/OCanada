@@ -42,16 +42,19 @@ void loop() {
   morse_out(current_char);
 }
 
+// using red out for .
 void red_out() {
   strip.fill(strip.Color(255,0,0));
   strip.show();  
 }
 
+// using white out for -
 void white_out() {
   strip.fill(strip.Color(255,255,255));
   strip.show();
 }
 
+// black?  blank?
 void blank() {
   strip.fill(strip.Color(0,0,0));
   strip.show();  
